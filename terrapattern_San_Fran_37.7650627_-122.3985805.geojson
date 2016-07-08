@@ -1,0 +1,1642 @@
+{
+  "properties": {
+    "note": "This collection of points represents a results set of visually similar locations.  It was created using Terrapattern.",
+    "url": "http://www.terrapattern.com",
+    "timestamp": "2016-07-08 18:12:30 +0000"
+  },
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7650627_-122.3985805_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.124452,
+          "y": 0.148391
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3985805,
+          37.7650627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7807377_-122.4740955_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.173495,
+          "y": 0.295743
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4740955,
+          37.7807377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7749902_-122.474782_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.20222,
+          "y": 0.247645
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.474782,
+          37.7749902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7530452_-122.4054455_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.0166245,
+          "y": 0.719531
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4054455,
+          37.7530452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7640177_-122.470663_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.342458,
+          "y": 0.0157454
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.470663,
+          37.7640177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7817827_-122.454187_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.087859,
+          "y": -0.188976
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.454187,
+          37.7817827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7640177_-122.4672305_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.558357,
+          "y": 0.375577
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4672305,
+          37.7640177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7363252_-122.5001825_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.15847,
+          "y": 0.755781
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5001825,
+          37.7363252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7567027_-122.4658575_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.017567,
+          "y": 0.0837898
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4658575,
+          37.7567027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7744677_-122.48302_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.19,
+          "y": 0.179899
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48302,
+          37.7744677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7765577_-122.4782145_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.127464,
+          "y": 0.582786
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4782145,
+          37.7765577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7734227_-122.466544_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.271378,
+          "y": -0.543483
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.466544,
+          37.7734227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7624502_-122.465171_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.521492,
+          "y": 0.318184
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.465171,
+          37.7624502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7770802_-122.465171_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.69709,
+          "y": 0.328341
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.465171,
+          37.7770802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7640177_-122.4727225_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.480061,
+          "y": -0.207273
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4727225,
+          37.7640177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7802152_-122.4782145_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.677579,
+          "y": -0.711757
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4782145,
+          37.7802152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7729002_-122.4809605_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.293772,
+          "y": 0.0744392
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4809605,
+          37.7729002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7634952_-122.4795875_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.631962,
+          "y": 0.135225
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4795875,
+          37.7634952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7410277_-122.473409_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.245622,
+          "y": 0.93013
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.473409,
+          37.7410277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7823052_-122.4740955_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.557191,
+          "y": 0.364341
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4740955,
+          37.7823052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7593152_-122.488512_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.755104,
+          "y": -0.137849
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.488512,
+          37.7593152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7645402_-122.4287865_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.872039,
+          "y": 0.297697
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4287865,
+          37.7645402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7817827_-122.4891985_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.705873,
+          "y": 0.455754
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4891985,
+          37.7817827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7483427_-122.4150565_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.461919,
+          "y": -0.957169
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4150565,
+          37.7483427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7593152_-122.484393_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.173943,
+          "y": -0.68985
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.484393,
+          37.7593152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7493877_-122.411624_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.192608,
+          "y": -0.23879
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.411624,
+          37.7493877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7796927_-122.5029285_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.181928,
+          "y": 0.410103
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5029285,
+          37.7796927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7661077_-122.4026995_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.304181,
+          "y": -0.309055
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4026995,
+          37.7661077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7624502_-122.5015555_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.255034,
+          "y": 0.640543
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5015555,
+          37.7624502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7843952_-122.4740955_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.342295,
+          "y": -0.016253
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4740955,
+          37.7843952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7556577_-122.4164295_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.282994,
+          "y": -1
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4164295,
+          37.7556577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7765577_-122.4823335_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.367826,
+          "y": -0.0267454
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4823335,
+          37.7765577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7854402_-122.4603655_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.425013,
+          "y": 0.0210149
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4603655,
+          37.7854402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7384152_-122.49675_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.438587,
+          "y": 0.558033
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.49675,
+          37.7384152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7593152_-122.408878_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.497779,
+          "y": 0.256204
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.408878,
+          37.7593152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7316227_-122.4466355_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.853803,
+          "y": 0.280394
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4466355,
+          37.7316227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7405052_-122.492631_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.77187,
+          "y": 0.304112
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.492631,
+          37.7405052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7802152_-122.4823335_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.300618,
+          "y": 0.280727
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4823335,
+          37.7802152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7488652_-122.422608_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.36707,
+          "y": 0.160132
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422608,
+          37.7488652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7593152_-122.4878255_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.0627593,
+          "y": 0.00283372
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4878255,
+          37.7593152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7504327_-122.4740955_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.605113,
+          "y": 0.669531
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4740955,
+          37.7504327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7974577_-122.425354_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.181133,
+          "y": -0.369519
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.425354,
+          37.7974577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7431177_-122.476155_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.268235,
+          "y": -0.939974
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.476155,
+          37.7431177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.6229427_-122.4480085_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.322303,
+          "y": -0.347711
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4480085,
+          37.6229427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7499102_-122.4933175_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.28403,
+          "y": -0.634586
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4933175,
+          37.7499102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7640177_-122.46929_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.358424,
+          "y": 0.387625
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46929,
+          37.7640177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.8052952_-122.410251_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.254833,
+          "y": -0.750187
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.410251,
+          37.8052952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7509552_-122.411624_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.3806,
+          "y": -0.294622
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.411624,
+          37.7509552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7619277_-122.4081915_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.909881,
+          "y": 0.0873642
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4081915,
+          37.7619277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7796927_-122.495377_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.18935,
+          "y": 0.299405
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.495377,
+          37.7796927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7755127_-122.499496_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.676614,
+          "y": 0.151437
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.499496,
+          37.7755127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7603602_-122.4658575_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.190337,
+          "y": 0.615378
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4658575,
+          37.7603602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7843952_-122.473409_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.0545907,
+          "y": 0.716693
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.473409,
+          37.7843952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7624502_-122.5029285_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.432765,
+          "y": 0.747886
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5029285,
+          37.7624502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7311002_-122.484393_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.378516,
+          "y": 0.134661
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.484393,
+          37.7311002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7859627_-122.478901_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.0106204,
+          "y": -0.204857
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.478901,
+          37.7859627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7655852_-122.472036_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.0781579,
+          "y": -0.823504
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.472036,
+          37.7655852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7749902_-122.46929_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.0939964,
+          "y": 0.0987037
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46929,
+          37.7749902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7493877_-122.402013_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.12021,
+          "y": 0.0115086
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.402013,
+          37.7493877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.6950477_-122.4644845_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -1,
+          "y": -0.573831
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4644845,
+          37.6950477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7311002_-122.4768415_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.242186,
+          "y": 0.117576
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4768415,
+          37.7311002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7556577_-122.4178025_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.217275,
+          "y": -0.585381
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4178025,
+          37.7556577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7572252_-122.4178025_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.00851357,
+          "y": 0.221368
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4178025,
+          37.7572252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7854402_-122.4383975_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.37914,
+          "y": -0.060634
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4383975,
+          37.7854402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.8058177_-122.4136835_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.398992,
+          "y": 0.246091
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4136835,
+          37.8058177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7796927_-122.4946905_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.614001,
+          "y": 0.790656
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4946905,
+          37.7796927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7619277_-122.418489_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.366343,
+          "y": 0.563393
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418489,
+          37.7619277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7410277_-122.4809605_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.662103,
+          "y": 0.702756
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4809605,
+          37.7410277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7321452_-122.4864525_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.00884116,
+          "y": -0.664361
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4864525,
+          37.7321452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7796927_-122.500869_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.511275,
+          "y": 0.0220426
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.500869,
+          37.7796927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7640177_-122.466544_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.71095,
+          "y": -0.323227
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.466544,
+          37.7640177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7593152_-122.489885_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.639561,
+          "y": 0.308866
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.489885,
+          37.7593152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7760352_-122.4919445_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.569714,
+          "y": 0.581128
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4919445,
+          37.7760352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7802152_-122.485766_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.771639,
+          "y": 0.400173
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.485766,
+          37.7802152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7661077_-122.461052_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.218732,
+          "y": -0.457538
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.461052,
+          37.7661077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7540902_-122.481647_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.6286,
+          "y": -0.823108
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.481647,
+          37.7540902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7755127_-122.4617385_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.000721693,
+          "y": 0.0556507
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4617385,
+          37.7755127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7504327_-122.422608_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.571684,
+          "y": 0.406486
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422608,
+          37.7504327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7572252_-122.488512_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.186743,
+          "y": 0.0660354
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.488512,
+          37.7572252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7755127_-122.4411435_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.509194,
+          "y": -0.332591
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4411435,
+          37.7755127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7817827_-122.491258_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 1,
+          "y": 1
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.491258,
+          37.7817827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7431177_-122.473409_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.020613,
+          "y": 0.779751
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.473409,
+          37.7431177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7781252_-122.484393_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.152972,
+          "y": -0.431325
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.484393,
+          37.7781252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7535677_-122.423981_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.371688,
+          "y": 0.131528
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423981,
+          37.7535677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7796927_-122.503615_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.489349,
+          "y": -0.263916
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.503615,
+          37.7796927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7608827_-122.403386_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.219954,
+          "y": -0.735363
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403386,
+          37.7608827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7650627_-122.397894_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.868863,
+          "y": -0.227883
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.397894,
+          37.7650627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7467752_-122.4713495_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.20043,
+          "y": 0.0683289
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4713495,
+          37.7467752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7122902_-122.4548735_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.106626,
+          "y": -0.438381
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4548735,
+          37.7122902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7577477_-122.48302_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.479788,
+          "y": -0.418388
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48302,
+          37.7577477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7755127_-122.5015555_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.43947,
+          "y": 0.287404
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5015555,
+          37.7755127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7431177_-122.474782_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.731055,
+          "y": 0.703777
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.474782,
+          37.7431177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7645402_-122.406132_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.104889,
+          "y": -0.919912
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.406132,
+          37.7645402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.7838727_-122.48302_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.644436,
+          "y": 0.139618
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48302,
+          37.7838727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.6380952_-122.4123105_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.793195,
+          "y": -0.445511
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4123105,
+          37.6380952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "San_Fran_37.6945252_-122.465171_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.966352,
+          "y": -0.33416
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.465171,
+          37.6945252
+        ]
+      }
+    }
+  ]
+}
